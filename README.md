@@ -1,4 +1,4 @@
-# Power Repairer Complite Website:
+# Power Repairer Complete Website:
 
 ## Live Site Here:  [Power Repairer](https://power-repairer.web.app/)
 
